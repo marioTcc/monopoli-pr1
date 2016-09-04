@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1457203600 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\main.c
+	"monopolycube.h"
+
+1456676581 ube.h"
+
+1457203643 c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\monopolycube.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1457203643 
+
+1454438682 c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\giocatore.h
+
+1457116761 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\monopolycube.c
+	"monopolycube.h"
+
+1456151417 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\giocatore.c
+	"monopolycube.h"
+
+1454434143 c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\savemanager.h
+
+1454434218 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\savemanager.c
+
+1455552833 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\tabellone.c
+	"monopolycube.h"
+
+1456676584 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\debugfunctions.c
+	"monopolycube.h"
+
+1457202515 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\filefunctions.c
+	"monopolycube.h"
+
+1457119511 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\initfunctions.c
+	"monopolycube.h"
+
+1457118142 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\game.c
+	"monopolycube.h"
+
+1456676581 source:c:\users\user1\desktop\uni\c projects 65234\fp.taccori.mario.65234\outputconsole.c
+	"monopolycube.h"
+
+1456676584 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/debugFunctions.c
+	"monopolycube.h"
+
+1457466375 /media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/monopolycube.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1457202515 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/fileFunctions.c
+	"monopolycube.h"
+
+1457203765 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/game.c
+	"monopolycube.h"
+
+1457119511 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/initFunctions.c
+	"monopolycube.h"
+
+1457203600 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/main.c
+	"monopolycube.h"
+
+1457116761 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/monopolycube.c
+	"monopolycube.h"
+
+1456676581 source:/media/n2v2z5/3E103ECE103E8CC1/Users/User1/Desktop/uni/c projects 65234/FP.taccori.mario.65234/outputConsole.c
+	"monopolycube.h"
+
+1456676584 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\debugfunctions.c
+	"monopolycube.h"
+
+1457466375 e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\monopolycube.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+
+1457202515 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\filefunctions.c
+	"monopolycube.h"
+
+1457203765 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\game.c
+	"monopolycube.h"
+
+1457119511 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\initfunctions.c
+	"monopolycube.h"
+
+1457203600 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\main.c
+	"monopolycube.h"
+
+1457116761 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\monopolycube.c
+	"monopolycube.h"
+
+1456676581 source:e:\bkpmar2016\uni\c projects 65234\fp.taccori.mario.65234\outputconsole.c
+	"monopolycube.h"
+
